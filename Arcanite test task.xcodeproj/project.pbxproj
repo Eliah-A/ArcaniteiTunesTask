@@ -27,6 +27,7 @@
 		493B9DFF2A2A2C0300AABA1E /* PlayerRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493B9DFB2A2A2C0300AABA1E /* PlayerRouter.swift */; };
 		493B9E022A2A2C1700AABA1E /* CGFloatExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493B9E002A2A2C1700AABA1E /* CGFloatExtension.swift */; };
 		493B9E032A2A2C1700AABA1E /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493B9E012A2A2C1700AABA1E /* UIColorExtension.swift */; };
+		493F85822B49ACFE009BE035 /* another new filer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493F85812B49ACFE009BE035 /* another new filer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		493B9DFB2A2A2C0300AABA1E /* PlayerRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PlayerRouter.swift; path = PlayerModule/PlayerRouter.swift; sourceTree = "<group>"; };
 		493B9E002A2A2C1700AABA1E /* CGFloatExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CGFloatExtension.swift; path = Extension/CGFloatExtension.swift; sourceTree = "<group>"; };
 		493B9E012A2A2C1700AABA1E /* UIColorExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UIColorExtension.swift; path = Extension/UIColorExtension.swift; sourceTree = "<group>"; };
+		493F85812B49ACFE009BE035 /* another new filer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "another new filer.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 		493B9D9B2A28C08900AABA1E = {
 			isa = PBXGroup;
 			children = (
+				493F85812B49ACFE009BE035 /* another new filer.swift */,
 				493B9DA62A28C08900AABA1E /* Arcanite test task */,
 				493B9DA52A28C08900AABA1E /* Products */,
 			);
@@ -243,6 +246,7 @@
 				493B9DF52A2A2BE700AABA1E /* AppDelegate.swift in Sources */,
 				493B9DC42A2903F700AABA1E /* SongCell.swift in Sources */,
 				493B9DBC2A28CAD500AABA1E /* Entity.swift in Sources */,
+				493F85822B49ACFE009BE035 /* another new filer.swift in Sources */,
 				493B9DEA2A2A2BC900AABA1E /* NetworkService.swift in Sources */,
 				493B9E032A2A2C1700AABA1E /* UIColorExtension.swift in Sources */,
 				493B9DFE2A2A2C0300AABA1E /* PlayerViewController.swift in Sources */,
