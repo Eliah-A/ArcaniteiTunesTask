@@ -9,7 +9,7 @@ import Foundation
 
 enum API {
     case iTunesSearch(keyword: String)
-//some stuff to conflict
+//some new stuff to conflict 
     var urlString: URL? {
         switch self {
         case .iTunesSearch(let keyword):
