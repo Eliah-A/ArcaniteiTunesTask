@@ -40,7 +40,7 @@
 		493B9DCD2A29639C00AABA1E /* LayoutHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutHelper.swift; sourceTree = "<group>"; };
 		493B9DE72A2A2BC900AABA1E /* NetworkService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NetworkService.swift; path = NetworkService/NetworkService.swift; sourceTree = "<group>"; };
 		493B9DE82A2A2BC900AABA1E /* API.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = API.swift; path = NetworkService/API.swift; sourceTree = "<group>"; };
-		493B9DE92A2A2BC900AABA1E /* NetworkError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NetworkError.swift; path = NetworkService/NetworkError.swift; sourceTree = "<group>"; };
+		493B9DE92A2A2BC900AABA1E /* NetworkError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkError.swift; sourceTree = "<group>"; };
 		493B9DEE2A2A2BE700AABA1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Base; path = Base.lproj/Info.plist; sourceTree = "<group>"; };
 		493B9DF02A2A2BE700AABA1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/SceneDelegate.swift; sourceTree = "<group>"; };
 		493B9DF22A2A2BE700AABA1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/AppDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +83,7 @@
 		493B9DA62A28C08900AABA1E /* Arcanite test task */ = {
 			isa = PBXGroup;
 			children = (
+				493B9DE92A2A2BC900AABA1E /* NetworkError.swift */,
 				493B9DE52A2A295F00AABA1E /* NetworkService */,
 				493B9DE42A2A1DD700AABA1E /* Base */,
 				493B9DDF2A29B51200AABA1E /* ImageLoaderService */,
@@ -165,7 +166,6 @@
 			isa = PBXGroup;
 			children = (
 				493B9DE82A2A2BC900AABA1E /* API.swift */,
-				493B9DE92A2A2BC900AABA1E /* NetworkError.swift */,
 				493B9DE72A2A2BC900AABA1E /* NetworkService.swift */,
 			);
 			name = NetworkService;
