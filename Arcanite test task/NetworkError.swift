@@ -7,6 +7,7 @@
 
 import Foundation
 // this is new feature line 
+//and this is new line from github
 enum NetworkError: Error {
     case badURL
     case networkError(Error)
