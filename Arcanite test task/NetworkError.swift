@@ -26,5 +26,5 @@ enum NetworkError: Error {
         case .unknownError:
             return "Unknown error occurred"
         }
-    }
+ }
 }
