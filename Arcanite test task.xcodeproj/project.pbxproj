@@ -28,6 +28,7 @@
 		493B9E022A2A2C1700AABA1E /* CGFloatExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493B9E002A2A2C1700AABA1E /* CGFloatExtension.swift */; };
 		493B9E032A2A2C1700AABA1E /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493B9E012A2A2C1700AABA1E /* UIColorExtension.swift */; };
 		493F85822B49ACFE009BE035 /* another new filer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493F85812B49ACFE009BE035 /* another new filer.swift */; };
+		49CCD1F12B706B6E002B9AB4 /* new file.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CCD1F02B706B6E002B9AB4 /* new file.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		493B9E002A2A2C1700AABA1E /* CGFloatExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CGFloatExtension.swift; path = Extension/CGFloatExtension.swift; sourceTree = "<group>"; };
 		493B9E012A2A2C1700AABA1E /* UIColorExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UIColorExtension.swift; path = Extension/UIColorExtension.swift; sourceTree = "<group>"; };
 		493F85812B49ACFE009BE035 /* another new filer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "another new filer.swift"; sourceTree = "<group>"; };
+		49CCD1F02B706B6E002B9AB4 /* new file.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "new file.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 			isa = PBXGroup;
 			children = (
 				493F85812B49ACFE009BE035 /* another new filer.swift */,
+				49CCD1F02B706B6E002B9AB4 /* new file.swift */,
 				493B9DA62A28C08900AABA1E /* Arcanite test task */,
 				493B9DA52A28C08900AABA1E /* Products */,
 			);
@@ -249,6 +252,7 @@
 				493F85822B49ACFE009BE035 /* another new filer.swift in Sources */,
 				493B9DEA2A2A2BC900AABA1E /* NetworkService.swift in Sources */,
 				493B9E032A2A2C1700AABA1E /* UIColorExtension.swift in Sources */,
+				49CCD1F12B706B6E002B9AB4 /* new file.swift in Sources */,
 				493B9DFE2A2A2C0300AABA1E /* PlayerViewController.swift in Sources */,
 				493B9DFD2A2A2C0300AABA1E /* PlayerInteractor.swift in Sources */,
 				493B9DFC2A2A2C0300AABA1E /* PlayerPresenter.swift in Sources */,
